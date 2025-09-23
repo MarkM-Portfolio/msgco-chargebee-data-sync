@@ -1,0 +1,5 @@
+email	plan	cos_profile_name
+stg_yh@pc5-stg.atmailcloud.com	Kakadu-Plan-AV1	Kakadu-Plan-BV1
+playwright_reactivation2pj@pc5-stg.atmailcloud.com	Kakadu-Plan-BV1	Kakadu-Plan-AV1
+playwright_fd@pc5-stg.atmailcloud.com	Kakadu-Plan-CV1	Kakadu-Plan-BV1
+stg_pz@pc5-stg.atmailcloud.com	Kakadu-Plan-BV1	Kakadu-Plan-AV1

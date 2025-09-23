@@ -1,0 +1,6 @@
+*.gitattributes linguist-language=Git linguist-vendored=false
+*.gitignore linguist-language=Git linguist-vendored=false
+*.md linguist-language=Markdown linguist-vendored=false
+*.py linguist-language=Python linguist-vendored=false
+*.tsv linguist-language=Tsv linguist-vendored=false
+*.txt linguist-language=Text File linguist-vendored=false
